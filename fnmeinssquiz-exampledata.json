@@ -1,0 +1,1371 @@
+{
+  "Persons": {
+    "-N3A1ZlQsW6LJijGoNpS": {
+      "BornYear": 2002,
+      "Mail": "admin@admin.com",
+      "Password": "Admin",
+      "Statistic": {
+        "-N3SKYnvirLORV3USzUE": {
+          "Category": "History",
+          "Correct": false,
+          "Time": 2.3209340572357178
+        },
+        "-N3SKaIV73jgvoQfISzI": {
+          "Category": "History",
+          "Correct": true,
+          "Time": 2.7687411308288574
+        },
+        "-N3UVgKTcwAZQxO8uUsa": {
+          "Category": "History",
+          "Correct": true,
+          "Time": 2.114683151245117
+        },
+        "-N3UVj2VrjKKkcGn0Pgv": {
+          "Category": "History",
+          "Correct": true,
+          "Time": 2.7102839946746826
+        },
+        "-N3UVl_jc4sbD3FYbyVg": {
+          "Category": "History",
+          "Correct": true,
+          "Time": 3.536064386367798
+        },
+        "-N3UVogy3GqG7dN4RPXU": {
+          "Category": "History",
+          "Correct": false,
+          "Time": 3.108786106109619
+        },
+        "-N3UVqhXtoOdyv5WfkTD": {
+          "Category": "History",
+          "Correct": false,
+          "Time": 1.8627471923828125
+        },
+        "-N3VdTx--_OYtJ-Ip3L-": {
+          "Category": "General Knowledge",
+          "Correct": true,
+          "Time": 5.3321452140808105
+        },
+        "-N3VdWx8PedpN20bN73A": {
+          "Category": "General Knowledge",
+          "Correct": true,
+          "Time": 3.779583692550659
+        },
+        "-N3VfCJH1mdCJAImPNre": {
+          "Category": "General Knowledge",
+          "Correct": false,
+          "Time": 0.8805258274078369
+        },
+        "-N3VfESdiAt2ORRJasPA": {
+          "Category": "General Knowledge",
+          "Correct": true,
+          "Time": 2.1678240299224854
+        },
+        "-N3VfuCI9uX4l1rP5o93": {
+          "Category": "General Knowledge",
+          "Correct": true,
+          "Time": 2.8881568908691406
+        },
+        "-N3VfwlLxqdz07al1mjh": {
+          "Category": "General Knowledge",
+          "Correct": true,
+          "Time": 4.8890461921691895
+        },
+        "-N3VfzGVEeRNm3A5djr4": {
+          "Category": "General Knowledge",
+          "Correct": true,
+          "Time": 2.4437267780303955
+        },
+        "-N3WXG4r0_52PCchJDVY": {
+          "Category": "General Knowledge",
+          "Correct": false,
+          "Time": 6.023000955581665
+        },
+        "-N3WXIlNt1snU0C57D1O": {
+          "Category": "General Knowledge",
+          "Correct": true,
+          "Time": 2.408067226409912
+        },
+        "-N3WXLWhoSIkAhE5Old1": {
+          "Category": "General Knowledge",
+          "Correct": true,
+          "Time": 3.19201397895813
+        },
+        "-N3WXO7Wg-do9F6w45HM": {
+          "Category": "General Knowledge",
+          "Correct": true,
+          "Time": 2.8954482078552246
+        },
+        "-N3WXQeCSN0z7Wb6fLKu": {
+          "Category": "General Knowledge",
+          "Correct": true,
+          "Time": 2.7836649417877197
+        },
+        "-N3WX_hiCFFdyf2sDkGi": {
+          "Category": "History",
+          "Correct": true,
+          "Time": 2.0636258125305176
+        },
+        "-N3WXbiiMA02lpGhxGDU": {
+          "Category": "History",
+          "Correct": false,
+          "Time": 1.98380708694458
+        },
+        "-N3WXdVtDB4lDyxDHQCI": {
+          "Category": "History",
+          "Correct": true,
+          "Time": 1.7757270336151123
+        },
+        "-N3WXfGfJnyI_AwT3RgX": {
+          "Category": "History",
+          "Correct": false,
+          "Time": 1.527775764465332
+        },
+        "-N3WXgzeavyoLoH4eQuY": {
+          "Category": "History",
+          "Correct": true,
+          "Time": 1.3195738792419434
+        },
+        "-N3WfdfVMGd25qe4jpmK": {
+          "Category": "Sport",
+          "Correct": true,
+          "Time": 4.094204425811768
+        },
+        "-N3WfhhOHQrLqrRt2HVA": {
+          "Category": "Sport",
+          "Correct": true,
+          "Time": 3.559788942337036
+        },
+        "-N3WflaQb4CCYxAPpoCy": {
+          "Category": "Sport",
+          "Correct": false,
+          "Time": 3.8481810092926025
+        },
+        "-N3Wfq59VPOCXF48mXsf": {
+          "Category": "Sport",
+          "Correct": true,
+          "Time": 3.8328542709350586
+        },
+        "-N3Wftjp1rqNERjek-kE": {
+          "Category": "Sport",
+          "Correct": true,
+          "Time": 3.3120009899139404
+        },
+        "-N3WikvarDD60eZh-8kg": {
+          "Category": "Science",
+          "Correct": true,
+          "Time": 3.377945899963379
+        },
+        "-N3XEG7FjLK1tClBFi-P": {
+          "Category": "Science",
+          "Correct": true,
+          "Time": 2.3984286785125732
+        },
+        "-N3XI14pLYaBmceSHphP": {
+          "Category": "Sport",
+          "Correct": true,
+          "Time": 2.2761619091033936
+        },
+        "-N3XIDkjjHdM5G-gxLSI": {
+          "Category": "Sport",
+          "Correct": false,
+          "Time": 3.2556378841400146
+        },
+        "-N3XIR0YFm_tSWH-YBNs": {
+          "Category": "Sport",
+          "Correct": true,
+          "Time": 2.334205389022827
+        },
+        "-N3XI_PktATMttaiq_c-": {
+          "Category": "Sport",
+          "Correct": true,
+          "Time": 1.987196922302246
+        },
+        "-N3XJBpHip2KTTM3Eb28": {
+          "Category": "Science",
+          "Correct": true,
+          "Time": 1.5804920196533203
+        },
+        "-N3XJKuWKlt3gU4iYIef": {
+          "Category": "Sport",
+          "Correct": true,
+          "Time": 1.671947717666626
+        },
+        "-N3XJeEnGJrteiGk86LV": {
+          "Category": "Sport",
+          "Correct": true,
+          "Time": 0.9728491306304932
+        },
+        "-N3XJsUztZT2u09FeTgH": {
+          "Category": "History",
+          "Correct": true,
+          "Time": 1.5693821907043457
+        },
+        "-N3XKKJ4B6GCRpUmISfo": {
+          "Category": "Art",
+          "Correct": true,
+          "Time": 2.604529619216919
+        },
+        "-N3XKdCRW2D4sFycCnW_": {
+          "Category": "Science",
+          "Correct": false,
+          "Time": 0.4224436283111572
+        },
+        "-N3XLAUAssisWDxu0c19": {
+          "Category": "History",
+          "Correct": false,
+          "Time": 0.4884035587310791
+        },
+        "-N3XLbT8G_aiNB3g4Xm1": {
+          "Category": "Art",
+          "Correct": true,
+          "Time": 2.897777557373047
+        },
+        "-N3XMDRX4L3oe_Sx1-c9": {
+          "Category": "Science",
+          "Correct": false,
+          "Time": 1.4565093517303467
+        },
+        "-N3XMUdnvZ1IHz1hZ46B": {
+          "Category": "General Knowledge",
+          "Correct": false,
+          "Time": 0.9652163982391357
+        },
+        "-N3XMpl8ywpZNPGy1ger": {
+          "Category": "Art",
+          "Correct": false,
+          "Time": 2.162827968597412
+        },
+        "-N3XN7Gi7WMGD4vGyYmK": {
+          "Category": "History",
+          "Correct": true,
+          "Time": 1.3222112655639648
+        },
+        "-N3XNH9awsptGNFtgOvZ": {
+          "Category": "Art",
+          "Correct": true,
+          "Time": 1.661513090133667
+        },
+        "-N3XNztH_vLuuU_U4I49": {
+          "Category": "Sport",
+          "Correct": false,
+          "Time": 1.1290628910064697
+        },
+        "-N3XPvntHWZnXVk8mO-k": {
+          "Category": "Sport",
+          "Correct": true,
+          "Time": 4.0975775718688965
+        },
+        "-N3XQ3ijacu0Y-wjZJMg": {
+          "Category": "Science",
+          "Correct": false,
+          "Time": 1.652808666229248
+        },
+        "-N3XQH6lkZKgkEbF6Fu-": {
+          "Category": "Art",
+          "Correct": true,
+          "Time": 0.9083168506622314
+        },
+        "-N3XQNvDjJpUIfpp9K4M": {
+          "Category": "Art",
+          "Correct": false,
+          "Time": 3.549668073654175
+        },
+        "-N3YeXHpbmpM5dzkkuUj": {
+          "Category": "Science",
+          "Correct": false,
+          "Time": 3.4500205516815186
+        },
+        "-N3Yea9b8Blhh3IDL8ip": {
+          "Category": "Science",
+          "Correct": false,
+          "Time": 5.69781231880188
+        },
+        "-N3YedZUF5nb6xuRkvwc": {
+          "Category": "Science",
+          "Correct": true,
+          "Time": 3.5578930377960205
+        },
+        "-N3Yej1tY7IsWODTopYo": {
+          "Category": "Science",
+          "Correct": true,
+          "Time": 2.129436492919922
+        },
+        "-N3YemUhUAX4llya2Z1A": {
+          "Category": "Science",
+          "Correct": false,
+          "Time": 3.9209158420562744
+        },
+        "-N3Yg94BFSN0dOb3Uh_z": {
+          "Category": "General Knowledge",
+          "Correct": false,
+          "Time": 2.268589496612549
+        },
+        "-N3YgB87PEqyuDnTwu7n": {
+          "Category": "General Knowledge",
+          "Correct": false,
+          "Time": 2.729170799255371
+        },
+        "-N3YgDq3K5siFNB7hPoh": {
+          "Category": "General Knowledge",
+          "Correct": false,
+          "Time": 4.568284273147583
+        },
+        "-N3YgFzX3Vz9zhbM2bhV": {
+          "Category": "General Knowledge",
+          "Correct": false,
+          "Time": 2.58379864692688
+        },
+        "-N3YgI1ac5hGyEExutmW": {
+          "Category": "General Knowledge",
+          "Correct": false,
+          "Time": 2.6560986042022705
+        }
+      },
+      "Username": "ADMIN"
+    },
+    "-N3F3kNbTWQiNMYvz_xG": {
+      "BornYear": 2002,
+      "Mail": "f@",
+      "Password": "1234",
+      "Statistic": {
+        "-N3UaiVc9RBO5Mb7Y_YD": {
+          "Category": "History",
+          "Correct": true,
+          "Time": 2.142141342163086
+        },
+        "-N3UalWNohXFvKK2DhMt": {
+          "Category": "History",
+          "Correct": true,
+          "Time": 3.093367576599121
+        },
+        "-N3UaxrgocUW1BIyVLho": {
+          "Category": "History",
+          "Correct": false,
+          "Time": 2.236368179321289
+        },
+        "-N3Ub-0jAg_-cJI0mNh4": {
+          "Category": "History",
+          "Correct": true,
+          "Time": 2.303986072540283
+        },
+        "-N3Ub1Clv578WZ4Qsavu": {
+          "Category": "History",
+          "Correct": true,
+          "Time": 2.4522531032562256
+        },
+        "-N3W8wqAytSx80ATje4m": {
+          "Category": "General Knowledge",
+          "Correct": true,
+          "Time": 0.9150874614715576
+        },
+        "-N3W91vJ5Z4IZmcMqxAY": {
+          "Category": "General Knowledge",
+          "Correct": true,
+          "Time": 3.8072586059570312
+        },
+        "-N3W94gnwfU1VwpFeKNa": {
+          "Category": "General Knowledge",
+          "Correct": false,
+          "Time": 3.596437931060791
+        },
+        "-N3W9TKebGu3tHTDwdrW": {
+          "Category": "General Knowledge",
+          "Correct": false,
+          "Time": 3.6178300380706787
+        },
+        "-N3W9WFTdyZ63hQHQdkk": {
+          "Category": "General Knowledge",
+          "Correct": true,
+          "Time": 4.064362525939941
+        }
+      },
+      "Username": "NEW"
+    },
+    "-N3X8uVmw5Tw6Ez_M4yJ": {
+      "BornYear": 2002,
+      "Mail": "funuva@",
+      "Password": "1234",
+      "Statistic": {
+        "-N3XBa7jjXb6v9awfE8Q": {
+          "Category": "Art",
+          "Correct": true,
+          "Time": 6.594990253448486
+        },
+        "-N3XBlFMrazGgfymlblC": {
+          "Category": "Art",
+          "Correct": false,
+          "Time": 4.120907545089722
+        },
+        "-N3XBqjBPQzdIWn-yS6L": {
+          "Category": "Art",
+          "Correct": false,
+          "Time": 5.352304697036743
+        },
+        "-N3XBtUIahCvk-t7b85x": {
+          "Category": "Art",
+          "Correct": true,
+          "Time": 4.247454404830933
+        },
+        "-N3XBvxiMpYMmorYuDRk": {
+          "Category": "Art",
+          "Correct": true,
+          "Time": 2.8556807041168213
+        },
+        "-N3XNeEv-qCPRfRknrSl": {
+          "Category": "Art",
+          "Correct": false,
+          "Time": 2.7558796405792236
+        },
+        "-N3XOB3aTd7JApDzVjfN": {
+          "Category": "Science",
+          "Correct": false,
+          "Time": 0.5185742378234863
+        },
+        "-N3XOPkeFnWKZ_jr3thN": {
+          "Category": "Art",
+          "Correct": false,
+          "Time": 4.068007946014404
+        },
+        "Category": "No"
+      },
+      "Username": "UNUVAR59"
+    },
+    "-N3XDJM4CA0-HiMmQNMO": {
+      "BornYear": 1990,
+      "Mail": "ayseduran@gmail.com",
+      "Password": "345a",
+      "Statistic": {
+        "-N3XDOok7ebM9cCOG9dU": {
+          "Category": "General Knowledge",
+          "Correct": true,
+          "Time": 2.9293832778930664
+        },
+        "-N3XDS1WFQM2QxW6H_64": {
+          "Category": "General Knowledge",
+          "Correct": true,
+          "Time": 5.061787843704224
+        },
+        "-N3XDUt-Tp0bWbI9_02J": {
+          "Category": "General Knowledge",
+          "Correct": true,
+          "Time": 3.0769927501678467
+        },
+        "-N3XDXKbPx8WtFI6ihOn": {
+          "Category": "General Knowledge",
+          "Correct": true,
+          "Time": 1.617974042892456
+        },
+        "-N3XDZmmPSwRnK-TKkeF": {
+          "Category": "General Knowledge",
+          "Correct": true,
+          "Time": 1.5769789218902588
+        },
+        "Category": "No"
+      },
+      "Username": "AYSEDURAN"
+    },
+    "-N3YdQYbO_UEu6q7rJNk": {
+      "BornYear": 2002,
+      "Mail": "kemalbayda@gmail.com",
+      "Password": "9876",
+      "Statistic": {
+        "-N3YfsL-FZPWMuwIe7pC": {
+          "Category": "General Knowledge",
+          "Correct": true,
+          "Time": 2.703643798828125
+        },
+        "-N3Yfuzda1DvnKd1_6a1": {
+          "Category": "General Knowledge",
+          "Correct": true,
+          "Time": 3.671721935272217
+        },
+        "-N3YfzOH92nwiJ36QyAD": {
+          "Category": "General Knowledge",
+          "Correct": false,
+          "Time": 4.399810075759888
+        },
+        "-N3Yg0e6Xh09kzLnnCry": {
+          "Category": "General Knowledge",
+          "Correct": false,
+          "Time": 2.944274425506592
+        },
+        "-N3Yg2nlCvf3V6drO_gz": {
+          "Category": "General Knowledge",
+          "Correct": true,
+          "Time": 2.799666404724121
+        },
+        "no": "No"
+      },
+      "Username": "KEMAL BAYDAN"
+    },
+    "-N3Yh7PA8UJbWP9aia5u": {
+      "BornYear": 2000,
+      "Mail": "itü12@itu.edu.tr",
+      "Password": "itü12",
+      "Statistic": {
+        "-N3YhDAYWX6QuzeK2nbG": {
+          "Category": "Science",
+          "Correct": true,
+          "Time": 2.1354427337646484
+        },
+        "-N3YhGHUNrs4-TDOfmmL": {
+          "Category": "Science",
+          "Correct": true,
+          "Time": 4.192483186721802
+        },
+        "-N3YhIWCWsJLbi0YHWr7": {
+          "Category": "Science",
+          "Correct": true,
+          "Time": 2.076633930206299
+        },
+        "-N3YhL8t0_513SZRLAxW": {
+          "Category": "Science",
+          "Correct": false,
+          "Time": 3.249282121658325
+        },
+        "-N3YhO1zTlFuGrSwqnbP": {
+          "Category": "Science",
+          "Correct": true,
+          "Time": 3.003096342086792
+        },
+        "-N3YhTMw5K9RFSMx-AM2": {
+          "Category": "Art",
+          "Correct": false,
+          "Time": 2.118284225463867
+        },
+        "-N3YhVN6sGxRwhj4CRmS": {
+          "Category": "Art",
+          "Correct": false,
+          "Time": 1.5749263763427734
+        },
+        "-N3YhXcNwnV2NbbFBsC0": {
+          "Category": "Art",
+          "Correct": true,
+          "Time": 4.093892574310303
+        },
+        "-N3YhaGHE5_BGZBZt6x5": {
+          "Category": "Art",
+          "Correct": true,
+          "Time": 7.602787494659424
+        },
+        "-N3YhcktsWS5jmZfzp-n": {
+          "Category": "Art",
+          "Correct": false,
+          "Time": 2.706784725189209
+        },
+        "no": "No"
+      },
+      "Username": "ITÜLÜ"
+    }
+  },
+  "Questions": {
+    "Art": {
+      "-N3Vgl-AUtVcLZPQTvMc": {
+        "Answer": "Leonardo da Vinci",
+        "Correctly": 0,
+        "Creator": "ADMIN",
+        "Other": [
+          "Michelangelo",
+          "Vincent Van Gogh",
+          "Donatello"
+        ],
+        "Question": "Who did the drawing of Mona Lisa?",
+        "Rank": 4,
+        "Usage": 1
+      },
+      "-N3WZLOMK4Hsrrt7TSp2": {
+        "Answer": "Mary Shelley",
+        "Correctly": 1,
+        "Creator": "ADMIN",
+        "Other": [
+          "George Gordon Byron",
+          "Percy Bysshe Shelley",
+          "Virginia Wolf"
+        ],
+        "Question": "Who wrote Frankenstein?",
+        "Rank": 8,
+        "Usage": 2
+      },
+      "-N3WZLW9Reo0tAqua6Q4": {
+        "Answer": "4",
+        "Correctly": 2,
+        "Creator": "ADMIN",
+        "Other": [
+          "3",
+          "5",
+          "6"
+        ],
+        "Question": "How many movies in indiana jones series?",
+        "Rank": 9,
+        "Usage": 2
+      },
+      "-N3WZLcqK0wMa5jNCJlF": {
+        "Answer": "Metropolis",
+        "Correctly": 0,
+        "Creator": "ADMIN",
+        "Other": [
+          "Sunspring",
+          "I'm Robot",
+          "Wall-E"
+        ],
+        "Question": "What was the first movie about AI?",
+        "Rank": 5,
+        "Usage": 1
+      },
+      "-N3WZLkJjd_pYGMVtq82": {
+        "Answer": "Vincent Van Gogh",
+        "Correctly": 2,
+        "Creator": "ADMIN",
+        "Other": [
+          "Frida Kahlo",
+          "Leonardo Da Vinci",
+          "Michelangelo"
+        ],
+        "Question": "Which artist died poor but became incredibly rich after his death?",
+        "Rank": 10,
+        "Usage": 2
+      },
+      "-N3WZLrvhBLZK2ZccrBI": {
+        "Answer": "1",
+        "Correctly": 2,
+        "Creator": "ADMIN",
+        "Other": [
+          "2",
+          "3",
+          "4"
+        ],
+        "Question": "How many times has the Mona Lisa been stolen?",
+        "Rank": 9,
+        "Usage": 2
+      },
+      "-N3WZLzYw3KdD3x-n6OL": {
+        "Answer": "Red, yellow and blue",
+        "Correctly": 0,
+        "Creator": "ADMIN",
+        "Other": [
+          "Red, green and blue",
+          "Yellow, green and blue",
+          "Red, yellow abd green"
+        ],
+        "Question": "What are the three primary colors?",
+        "Rank": 7,
+        "Usage": 2
+      },
+      "-N3WZM63yTgLm874Lu3B": {
+        "Answer": "Westworld",
+        "Correctly": 1,
+        "Creator": "ADMIN",
+        "Other": [
+          "Toy Story",
+          "Finding Nemo",
+          "Cars"
+        ],
+        "Question": "What was the first movie that used computer graphics?",
+        "Rank": 7,
+        "Usage": 2
+      },
+      "-N3WZMDzhoIlAsmYFRZl": {
+        "Answer": "Harper Lee",
+        "Correctly": 0,
+        "Creator": "ADMIN",
+        "Other": [
+          "JK Rowling",
+          "JRR Tolkien",
+          "Emily Bronte"
+        ],
+        "Question": "Who wrote To Kill A Mockingbird?",
+        "Rank": 7,
+        "Usage": 2
+      },
+      "-N3WZMLfDJgDsTZlDi_E": {
+        "Answer": "L. Ron Hubbard",
+        "Correctly": 0,
+        "Creator": "ADMIN",
+        "Other": [
+          "JK Rowling",
+          "George R.R. Martin",
+          "Sir Arthur Conan Doyle"
+        ],
+        "Question": "Who has written the most books?",
+        "Rank": 4,
+        "Usage": 1
+      },
+      "-N3XDJD5XCCR5cjg1f63": {
+        "Answer": "Van Gogh",
+        "Correctly": 1,
+        "Creator": "AYSEDURAN",
+        "Other": [
+          "Leanardo da Vinci",
+          "Leanardo di Caprio",
+          "Salvador Dali"
+        ],
+        "Question": "Which artist cut off his ear?",
+        "Rank": 4,
+        "Usage": 1
+      }
+    },
+    "General Knowledge": {
+      "-N3H4PTYYPnImOU4Mspi": {
+        "Answer": "Rockstar Games",
+        "Correctly": 4,
+        "Creator": "ADMIN",
+        "Other": [
+          "Tencent Games",
+          "Ubisoft",
+          "Sega"
+        ],
+        "Question": "What game studio makes the Grand Theft Auto series?",
+        "Rank": 23,
+        "Usage": 5
+      },
+      "-N3H6LiJzR8_B5B2cjlw": {
+        "Answer": "Mustafa Kemal Atatürk",
+        "Correctly": 3,
+        "Creator": "ADMIN",
+        "Other": [
+          "İsmet İnönü",
+          "Fatih Sultan Mehmet",
+          "Kanuni Sultan Süleyman"
+        ],
+        "Question": "Who is the founder of the Turkish Republic?",
+        "Rank": 23,
+        "Usage": 6
+      },
+      "-N3H6M4tdmvtwWGF5W7S": {
+        "Answer": "Saturn",
+        "Correctly": 1,
+        "Creator": "ADMIN",
+        "Other": [
+          "Jupiter",
+          "Mars",
+          "Pluto"
+        ],
+        "Question": "Which planet has the most moons?",
+        "Rank": 13,
+        "Usage": 3
+      },
+      "-N3H6MKx0CST4f3snaNL": {
+        "Answer": "Ankara",
+        "Correctly": 0,
+        "Creator": "ADMIN",
+        "Other": [
+          "Konya",
+          "İstanbul",
+          "Bursa"
+        ],
+        "Question": "What is the capital of Turkey",
+        "Rank": 8,
+        "Usage": 2
+      },
+      "-N3H6M_ab-eTmzJNCZZW": {
+        "Answer": "Konya",
+        "Correctly": 3,
+        "Creator": "ADMIN",
+        "Other": [
+          "İstanbul",
+          "Ankara",
+          "Bursa"
+        ],
+        "Question": "Which is the largest city in Turkey (in terms of surface area)?",
+        "Rank": 15,
+        "Usage": 4
+      },
+      "-N3H6MpLMmk_lSwWwEtH": {
+        "Answer": "İstanbul",
+        "Correctly": 4,
+        "Creator": "ADMIN",
+        "Other": [
+          "Antalya",
+          "Ankara",
+          "İzmir"
+        ],
+        "Question": "Which is the most populous city in Turkey?",
+        "Rank": 19,
+        "Usage": 5
+      },
+      "-N3H6NL-hWthwL40eXnl": {
+        "Answer": "Roma",
+        "Correctly": 2,
+        "Creator": "ADMIN",
+        "Other": [
+          "Ankara",
+          "Moskova",
+          "Paris"
+        ],
+        "Question": "What is the capital of Italy",
+        "Rank": 8,
+        "Usage": 2
+      },
+      "-N3H6NaWSaFVDiPib0vx": {
+        "Answer": "Baku",
+        "Correctly": 1,
+        "Creator": "ADMIN",
+        "Other": [
+          "Bucharest",
+          "Helsinki",
+          "Lenkeran"
+        ],
+        "Question": "what is the capital of Azerbaijan",
+        "Rank": 8,
+        "Usage": 2
+      },
+      "-N3WjOsPcHOBzd508HIe": {
+        "Answer": "Artificial Intelligence and Data Eng.",
+        "Correctly": 2,
+        "Creator": "UNUVAR59",
+        "Other": [
+          "Computer Eng.",
+          "Electronics and communication Eng.",
+          "Aeronautical Eng."
+        ],
+        "Question": "Which is the second depertmant of ITU",
+        "Rank": 12,
+        "Usage": 3
+      },
+      "-N3Yh7GEneI_DkPZ2hkF": {
+        "Answer": "1773",
+        "Correctly": 0,
+        "Creator": "ITÜLÜ",
+        "Other": [
+          "1073",
+          "1737",
+          "1037"
+        ],
+        "Question": "What year was ITU founded?",
+        "Rank": 0,
+        "Usage": 0
+      }
+    },
+    "History": {
+      "-N3H6GX_QFuVlAizYOG-": {
+        "Answer": "1299",
+        "Correctly": 1,
+        "Creator": "ADMIN",
+        "Other": [
+          "1399",
+          "1199",
+          "1499"
+        ],
+        "Question": "What year was the Ottoman Empire founded?",
+        "Rank": 6,
+        "Usage": 2
+      },
+      "-N3H6GmYgWZwbQHrRVZF": {
+        "Answer": "Osman Gazi",
+        "Correctly": 1,
+        "Creator": "ADMIN",
+        "Other": [
+          "Orhan Gazi",
+          "Ertuğrul Gazi",
+          "Fatih Sultan Mehmet"
+        ],
+        "Question": "Who is the founder of the Ottoman Empire",
+        "Rank": 5,
+        "Usage": 1
+      },
+      "-N3H6H5RrlWwBOBHzVWu": {
+        "Answer": "Little Boy",
+        "Correctly": 2,
+        "Creator": "ADMIN",
+        "Other": [
+          "Big Boy",
+          "Fat Boy",
+          "Tall Boy"
+        ],
+        "Question": "Name of the bomb dropped on \"Hiroshima\" in World War II",
+        "Rank": 9,
+        "Usage": 2
+      },
+      "-N3H6SZBqHe_jaik-9Bm": {
+        "Answer": "1923",
+        "Correctly": 0,
+        "Creator": "ADMIN",
+        "Other": [
+          "1925",
+          "1920",
+          "1928"
+        ],
+        "Question": "What year was the Turkish Republic founded?",
+        "Rank": 5,
+        "Usage": 1
+      },
+      "-N3H6StBUY9lH-8kWWWP": {
+        "Answer": "1071",
+        "Correctly": 0,
+        "Creator": "ADMIN",
+        "Other": [
+          "1073",
+          "1021",
+          "1023"
+        ],
+        "Question": "When was the Battle of Manzikert fought?",
+        "Rank": 8,
+        "Usage": 2
+      },
+      "-N3H6TCfIs4Y3mGGMV8D": {
+        "Answer": "1453",
+        "Correctly": 2,
+        "Creator": "ADMIN",
+        "Other": [
+          "1553",
+          "1535",
+          "1435"
+        ],
+        "Question": "In which year was Istanbul conquered?",
+        "Rank": 12,
+        "Usage": 3
+      },
+      "-N3H6TTVJoHj7u6dnjjX": {
+        "Answer": "Konya",
+        "Correctly": 3,
+        "Creator": "ADMIN",
+        "Other": [
+          "Van",
+          "Eskisehir",
+          "Ankara"
+        ],
+        "Question": "Which is one of the capitals of the Anatolian Seljuk state?",
+        "Rank": 13,
+        "Usage": 3
+      },
+      "-N3H6TlDujjLly7l5rSC": {
+        "Answer": "23 April 1920",
+        "Correctly": 1,
+        "Creator": "vdfvdf",
+        "Other": [
+          "23 October 1920",
+          "23 April 1923",
+          "23 April 1923"
+        ],
+        "Question": "When was the Turkish Grand National Assembly opened?",
+        "Rank": 12,
+        "Usage": 3
+      },
+      "-N3H6U11FeZuYoyNFiK_": {
+        "Answer": "Fatih Sultan Mehmet",
+        "Correctly": 1,
+        "Creator": "vdfvdf",
+        "Other": [
+          "Kanuni Sultan Süleyman",
+          "Young Osman",
+          "Yavuz Sultan Selim"
+        ],
+        "Question": "Who conquered istanbul",
+        "Rank": 5,
+        "Usage": 1
+      },
+      "-N3H6UIJ6CdNkLzbZ0AL": {
+        "Answer": "The Lausanne Peace Treaty",
+        "Correctly": 1,
+        "Creator": "vdfvdf",
+        "Other": [
+          "The Belgrade peace treaty",
+          "The Paris peace treaty",
+          "The Istanbul peace treaty"
+        ],
+        "Question": "Treaty that officially ended the \"war of liberation\"",
+        "Rank": 4,
+        "Usage": 1
+      }
+    },
+    "Science": {
+      "-N3VgbuXiiTjkdFqYSZG": {
+        "Answer": "32",
+        "Correctly": 1,
+        "Creator": "ADMIN",
+        "Other": [
+          "30",
+          "29",
+          "31"
+        ],
+        "Question": "How many teeth does an adult human have?",
+        "Rank": 5,
+        "Usage": 1
+      },
+      "-N3WZUA0Ebsm0jXElx0q": {
+        "Answer": "Ada Lovelace",
+        "Correctly": 0,
+        "Creator": "Who is the first computer programmer?",
+        "Other": [
+          "Charles Babbage",
+          "Grace Hopper",
+          "Alan Turing"
+        ],
+        "Question": "q",
+        "Rank": 5,
+        "Usage": 1
+      },
+      "-N3WZUHwSZ084aGeZddD": {
+        "Answer": "Wright Brothers",
+        "Correctly": 1,
+        "Creator": "ADMIN",
+        "Other": [
+          "Amelia Earhart",
+          "Charles Lindbergh",
+          "John Logie Baird"
+        ],
+        "Question": "Who invented the aeroplane",
+        "Rank": 4,
+        "Usage": 1
+      },
+      "-N3WZUPQRfypL5dcmZ1p": {
+        "Answer": "Creeper",
+        "Correctly": 2,
+        "Creator": "ADMIN",
+        "Other": [
+          "The Brain Boot Sector Virus",
+          "Michelangelo",
+          "CIH"
+        ],
+        "Question": "What is the first computer virus?",
+        "Rank": 9,
+        "Usage": 2
+      },
+      "-N3WZUX16L3TlFds-M8B": {
+        "Answer": "Radioactivity",
+        "Correctly": 0,
+        "Creator": "ADMIN",
+        "Other": [
+          "Gravity",
+          "Milky Way",
+          "Nucleus"
+        ],
+        "Question": "What did Marie Curie discover?",
+        "Rank": 5,
+        "Usage": 1
+      },
+      "-N3WZUdpEDZEq_gUxJMd": {
+        "Answer": "Benjamin Franklin",
+        "Correctly": 1,
+        "Creator": "ADMIN",
+        "Other": [
+          "Isaac Newton",
+          "Thomas Edison",
+          "Nicola Tesla"
+        ],
+        "Question": "Who discovered electricity?",
+        "Rank": 4,
+        "Usage": 1
+      },
+      "-N3WZUlTv2PXJk__W6t9": {
+        "Answer": "Alexander Fleming",
+        "Correctly": 0,
+        "Creator": "ADMIN",
+        "Other": [
+          "Louis Pasteur",
+          "Charles Hold",
+          "Victor Koch"
+        ],
+        "Question": "Who discovered penicillin?",
+        "Rank": 4,
+        "Usage": 1
+      },
+      "-N3WZUtB1vVhiiXNaB9F": {
+        "Answer": "ENIAC",
+        "Correctly": 0,
+        "Creator": "ADMIN",
+        "Other": [
+          "IBM 1620",
+          "UNIVAC-1",
+          "Atanasoff–Berry computer"
+        ],
+        "Question": "What was the name of the first computer?",
+        "Rank": 8,
+        "Usage": 2
+      },
+      "-N3WZV-pUCzt2-J_WKY4": {
+        "Answer": "Galileo Galilei",
+        "Correctly": 2,
+        "Creator": "ADMIN",
+        "Other": [
+          "Isaac Newton",
+          "Nicolaus Copernicus",
+          "Johannes Kepler"
+        ],
+        "Question": "Who is the father of science?",
+        "Rank": 12,
+        "Usage": 3
+      },
+      "-N3WZV7fjneYNqQ06k3r": {
+        "Answer": "Britain",
+        "Correctly": 1,
+        "Creator": "ADMIN",
+        "Other": [
+          "Italy",
+          "France",
+          "Germany"
+        ],
+        "Question": "Where did the Industrial Revolution start in?",
+        "Rank": 9,
+        "Usage": 2
+      }
+    },
+    "Sport": {
+      "-N3VgV13kaoTfkTPYp7N": {
+        "Answer": "Rocky Marciano",
+        "Correctly": 0,
+        "Creator": "ADMIN",
+        "Other": [
+          "Mike Tyson",
+          "Muhammed Ali",
+          "Don King"
+        ],
+        "Question": "Who has not lost a boxing match?",
+        "Rank": 5,
+        "Usage": 1
+      },
+      "-N3WZYkAmoiZPu3zsyN-": {
+        "Answer": "4 Years",
+        "Correctly": 2,
+        "Creator": "ADMIN",
+        "Other": [
+          "2 Years",
+          "3 Years",
+          "Every Year"
+        ],
+        "Question": "After how many years olympic games are held?",
+        "Rank": 10,
+        "Usage": 2
+      },
+      "-N3WZYs6u6jeuMMxTrrt": {
+        "Answer": "Brazil",
+        "Correctly": 1,
+        "Creator": "ADMIN",
+        "Other": [
+          "Germany",
+          "Argentina",
+          "France"
+        ],
+        "Question": "Which country won the most FIFA World Cup?",
+        "Rank": 5,
+        "Usage": 1
+      },
+      "-N3WZYzkTZPI4wWDcsaR": {
+        "Answer": "Sumo",
+        "Correctly": 1,
+        "Creator": "ADMIN",
+        "Other": [
+          "Wrestling",
+          "Sipa",
+          "Basketball"
+        ],
+        "Question": "What is the national game of Japan?",
+        "Rank": 4,
+        "Usage": 1
+      },
+      "-N3WZZ6Oj3jyZvt88-lf": {
+        "Answer": "Athens",
+        "Correctly": 2,
+        "Creator": "ADMIN",
+        "Other": [
+          "Berlin",
+          "Paris",
+          "Istanbul"
+        ],
+        "Question": "Where did the first Olympics take place?",
+        "Rank": 9,
+        "Usage": 2
+      },
+      "-N3WZZENeoM1a1hO0S9K": {
+        "Answer": "45 Mins",
+        "Correctly": 2,
+        "Creator": "ADMIN",
+        "Other": [
+          "30 Mins",
+          "50 Mins",
+          "39 Mins"
+        ],
+        "Question": "After how many minutes half time starts in a football match?",
+        "Rank": 15,
+        "Usage": 3
+      },
+      "-N3WZZM5879WHqOazAef": {
+        "Answer": "National Basketball Association",
+        "Correctly": 0,
+        "Creator": "ADMIN",
+        "Other": [
+          "National Bundesliga Association",
+          "North Basketball Association",
+          "National Premier Basketball Association"
+        ],
+        "Question": "What is the Full Form of the NBA?",
+        "Rank": 0,
+        "Usage": 0
+      },
+      "-N3WZZT_itidIbAB17LG": {
+        "Answer": "Tennis",
+        "Correctly": 2,
+        "Creator": "ADMIN",
+        "Other": [
+          "Golf",
+          "Archery",
+          "Table Tennis"
+        ],
+        "Question": "What is the Wimbledon Championship?",
+        "Rank": 13,
+        "Usage": 3
+      },
+      "-N3WZZaKQ0EY4Q54WGJM": {
+        "Answer": "William McCrum",
+        "Correctly": 1,
+        "Creator": "ADMIN",
+        "Other": [
+          "Pelé",
+          "Maradona",
+          "Messi"
+        ],
+        "Question": "Who invented penalty kick in football?",
+        "Rank": 3,
+        "Usage": 1
+      },
+      "-N3WZZhzNB73-TzRSaTf": {
+        "Answer": "Michael Schumacher",
+        "Correctly": 0,
+        "Creator": "ADMIN",
+        "Other": [
+          "Max Verstappen",
+          "Lewis Hamilton",
+          "Charles Leclerc"
+        ],
+        "Question": "Which F1 driver holds the record for the most race finishes?",
+        "Rank": 0,
+        "Usage": 0
+      },
+      "-N3X0syujNQeeUUmcbI_": {
+        "Answer": "infinite",
+        "Correctly": 0,
+        "Creator": "BURA",
+        "Other": [
+          "23",
+          "21",
+          "20"
+        ],
+        "Question": "How many points there can be most in a table tennis game?",
+        "Rank": 0,
+        "Usage": 0
+      },
+      "-N3X8uMPcYaEGbxt21YI": {
+        "Answer": "Galatasaray",
+        "Correctly": 0,
+        "Creator": "UNUVAR59",
+        "Other": [
+          "Fenerbahce",
+          "Real Madrid",
+          "Barcelona"
+        ],
+        "Question": "Who won the 1999-2000 UEFA Cup season?",
+        "Rank": 0,
+        "Usage": 0
+      },
+      "-N3YdQMW9wvZlmTrbgdY": {
+        "Answer": "100",
+        "Correctly": 0,
+        "Creator": "KEMAL BAYDAN",
+        "Other": [
+          "80",
+          "60",
+          "120"
+        ],
+        "Question": "how many meters is the long side of a football field?",
+        "Rank": 0,
+        "Usage": 0
+      }
+    }
+  },
+  "Quizes": {
+    "Art": {
+      "-N3XMrMdFCAL062vaGCL": {
+        "Name": "ADMIN",
+        "Score": 0
+      },
+      "-N3XNIqzt-nOdSmRWXjO": {
+        "Name": "ADMIN",
+        "Score": 60.18610421658195
+      },
+      "-N3XNlENMH7ez8wXMn0R": {
+        "Name": "UNUVAR59",
+        "Score": 0
+      },
+      "-N3XORN4K062mn86OoZ9": {
+        "Name": "UNUVAR59",
+        "Score": 0
+      },
+      "-N3XQIhXcleXoXpdZ6Mu": {
+        "Name": "ADMIN",
+        "Score": 100
+      },
+      "-N3XQPSa6RYugCoh4OiA": {
+        "Name": "ADMIN",
+        "Score": 0
+      },
+      "-N3YheBz1cRkNKJrzuGV": {
+        "Name": "ITÜLÜ",
+        "Score": 37.57970071349001
+      }
+    },
+    "General Knowledge": {
+      "-N3XMVszSyr4Rw9Mj-Go": {
+        "Name": "ADMIN",
+        "Score": 0
+      },
+      "-N3Yg4Y-rTLNtT4CObLS": {
+        "Name": "KEMAL BAYDAN",
+        "Score": 99.94084001270807
+      },
+      "-N3YgJds6PhMBb3sbWAe": {
+        "Name": "ADMIN",
+        "Score": 0
+      }
+    },
+    "History": {
+      "-N3XN8uQpUSNi6vGItVX": {
+        "Name": "ADMIN",
+        "Score": 75.63087881976776
+      }
+    },
+    "Science": {
+      "-N3XOCT2hAAblkZqa0Dw": {
+        "Name": "UNUVAR59",
+        "Score": 0
+      },
+      "-N3XQBDEZHBLOwhY-FjQ": {
+        "Name": "ADMIN",
+        "Score": 0
+      },
+      "-N3YeYjaCRKV9EoNf8zx": {
+        "Name": "ADMIN",
+        "Score": 0
+      },
+      "-N3YebkRbPrYsfUM9Jca": {
+        "Name": "ADMIN",
+        "Score": 0
+      },
+      "-N3YehUHVJ7folAoI7yN": {
+        "Name": "ADMIN",
+        "Score": 28.106522297799653
+      },
+      "-N3YekYab9qrRE50HdGQ": {
+        "Name": "ADMIN",
+        "Score": 75.06730292332476
+      },
+      "-N3Yenn4xsxSrkZx-4DZ": {
+        "Name": "ADMIN",
+        "Score": 75.06730292332476
+      },
+      "-N3YhPfrPuz8an4bnAJZ": {
+        "Name": "ITÜLÜ",
+        "Score": 152.13472639655055
+      }
+    },
+    "Sport": {
+      "-N3XO0kYkySH46TkWxQT": {
+        "Name": "ADMIN",
+        "Score": 0
+      },
+      "-N3XPxTdKNB7bQiIB1kN": {
+        "Name": "ADMIN",
+        "Score": 24.40466305910353
+      }
+    }
+  }
+}
